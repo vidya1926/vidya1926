@@ -11,7 +11,7 @@
 			<class name="testcase.CreateLead" />
 		</classes>					
 	</test> <!-- Test -->
-	<!-- <test thread-count="2" name="Smoke1" verbose="5">
+	<!-- <test thread-count="2" name="Regression" verbose="5">
 		<parameter name="browser" value="edge"></parameter>
 		<parameter name="url" value="http://leaftaps.com/opentaps/"></parameter>
 		<parameter name="username" value="demoSalesManager"></parameter>
